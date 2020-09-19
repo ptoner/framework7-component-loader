@@ -1,5 +1,5 @@
 {
-  "name": "framework7-component-loader",
+  "name": "framework7-component-loader-spacemvc",
   "version": "2.1.2",
   "description": "Framework7 single-file router component loader for Webpack",
   "main": "lib/index.js",
